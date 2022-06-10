@@ -1,6 +1,6 @@
 # tampilan_final
 
-A new Flutter project.
+Digital Wallet Application User Interface.
 
 ## Getting Started
 
